@@ -41,6 +41,7 @@ export default function ExercicioView10() {
       <View style={styles.footer}>
         <Text style={styles.text}>Footer</Text>
       </View>
+      
 
     </View>
   );

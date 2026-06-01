@@ -36,10 +36,10 @@ export default function ExercicioView02() {
 
 const styles = StyleSheet.create({
   container: {
-    // alignItems: "center",
+    alignItems: "center",
     justifyContent: "center",
     flex: 1,
-    gap: 18,
+    gap: 8,
   },
   textStyle: {
     color: "white",
